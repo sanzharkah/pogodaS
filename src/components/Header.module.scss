@@ -1,0 +1,22 @@
+.header{
+    background-color: darkblue;
+    height: 111px;
+    
+    ul li{
+        color: wheat;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        list-style-type: none;
+        display: inline-block;
+        margin-right: 40px;
+        cursor: pointer;
+        font-size: 25px;
+        margin-top: 18px;
+    }
+
+    .header_content{
+        padding: 10px 80px;
+        max-width: 1024px;
+        margin: 0 auto;
+        text-align: center;
+    }
+}
